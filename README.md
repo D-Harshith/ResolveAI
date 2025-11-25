@@ -36,7 +36,7 @@ The code is contained in `ResolveAI.py`. Dependencies are listed in `requirement
 ## How to Use
 
 ### Prerequisites
-- Python 3.8+.
+- Python 3.11+.
 - Google API Key: Obtain from Google AI Studio or Vertex AI.
 - Install dependencies from `requirements.txt`:
   ```
